@@ -1,4 +1,4 @@
-<h1 align="center">🎮 Welcome to <span style="color:#00ffff;">Rishika's DataVerse</span> 👾</h1>
+<h1 align="center">🎮 Am<span style="color:#00ffff;">Rishika</span> 👾</h1>
 <h3 align="center">🧠 Applied Data Scientist | AI Explorer | Analytics Alchemist</h3>
 
 <p align="center">
@@ -34,15 +34,6 @@
 </p>
 
 ---
-
-## 🕹️ Fun Fact Mode
-
-> “I don't just analyze data — I battle it until insights are revealed.”  
-> — *Rishika, Level 99 Data Mage 🧙‍♀️*
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="350px"/>
-</p>
 
 <p align="center">
   ⚡ Thanks for stopping by! May your models be accurate and your data forever clean.  
