@@ -1,63 +1,58 @@
-<h1 align="center">Hi 👋, I'm Rishika 😎</h1>
-<h3 align="center">🚀 Applied Data Scientist | Transforming Ideas into Models</h3>
+<h1 align="center">🕹️ Rishika Bhatt | Data Science Adventurer 🎯</h1>
+<h3 align="center">Leveling up with data — one model at a time 🚀</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Applied+Data+Scientist;Machine+Learning+Explorer;Data+Storyteller+%F0%9F%93%88;AI+Nerd+%F0%9F%92%BB;Always+Learning+New+Skills+%F0%9F%8E%93" alt="Typing SVG" />
+</p>
 
 ---
 
-### 📬 How to Reach Me
+### 🎮 Choose Your Quest
 
-📧 **Email:** [rishibhatt0812@gmail.com](mailto:rishibhatt0812@gmail.com)
+> 👇 Select a challenge to explore my work:
+
+- 🧠 **AI Models** – Building brains that predict, classify, and learn.  
+- 📈 **Analytics Dashboards** – Interactive insights that drive decisions.  
+- 🧹 **Data Cleaning Spells** – Taming messy datasets with Pythonic magic.  
+- 📊 **Story Mode** – Visualizing the hidden narratives inside raw data.  
+- 💬 **NLP Missions** – Teaching machines to understand human chatter.
 
 ---
 
-### 🌐 Connect With Me
+### 💾 Recent Builds
 
-<p align="left">
+🚀 **Customer Churn Prediction**  
+🎯 Forecasts user behavior with classification models + intuitive dashboards.
+
+🧪 **Healthcare EDA Quest**  
+⚕️ Explores trends in patient data to uncover life-saving insights.
+
+🕵️‍♀️ **Resume Screener Bot**  
+📜 Uses NLP to detect keywords and auto-rank resumes.
+
+📊 **Sales Forecast Engine**  
+📆 Time series forecasting deployed on Streamlit with slick UI.
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
   <a href="https://www.linkedin.com/in/rishika-bhatt-b3b12b2ba" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rishibhatt0812@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://instagram.com/_rishikabhatt_" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@rishikabhatt08" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 💡 A Bit About Me
+### 🧠 About Me (Minimal Mode)
 
-- 🎓 I'm a passionate **Data Science Developer** with a love for building smart, data-driven solutions.
-- 📊 I enjoy storytelling with data and building models that solve real-world problems.
-- 🌱 Currently exploring advanced machine learning and cloud deployment for analytics.
-- ✨ Always eager to learn, grow, and contribute to impactful projects!
-
----
-
-### 🧠 My Projects & Work
-
-- 📌 **Customer Churn Prediction**  
-  Developed a machine learning model to predict customer churn using classification techniques and presented findings through interactive dashboards.
-
-- 📌 **Sales Forecasting Dashboard**  
-  Built an end-to-end forecasting tool using time series analysis, deployed on Streamlit with integrated Power BI for executive reporting.
-
-- 📌 **Sentiment Analysis on Social Media**  
-  Created a Python NLP pipeline to analyze public sentiment on trending topics using Twitter API and visualized results using Seaborn & Plotly.
-
-- 📌 **EDA on Healthcare Data**  
-  Conducted a deep exploratory data analysis on public health datasets to uncover patterns in hospital readmissions and treatment outcomes.
-
-- 📌 **Automated Resume Screener**  
-  Used NLP and machine learning to build a smart resume screening tool that extracts keywords and ranks candidates based on job descriptions.
-
----
-
-### 🌟 Let's Collaborate!
-
-If you're working on data-centric projects or have an idea you'd like to bring to life with the power of data science—**reach out!**  
-I'm always open to freelance, collab, or open-source contributions 🤝
-
----
-
-⭐️ *Thanks for stopping by! Stay curious, stay analytical.*  
